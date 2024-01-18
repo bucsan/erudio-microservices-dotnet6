@@ -1,0 +1,6 @@
+@RestWithASPNETUdemyVS_HostAddress = http://localhost:5117
+
+GET {{RestWithASPNETUdemyVS_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

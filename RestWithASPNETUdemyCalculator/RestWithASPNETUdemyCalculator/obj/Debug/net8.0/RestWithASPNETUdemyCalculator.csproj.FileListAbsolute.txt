@@ -1,0 +1,27 @@
+C:\Cursos\Arquitetura de Microsserviços do 0 com ASP.NET, .NET 6 e C#\Repositorios\erudio-microservices-dotnet6\RestWithASPNETUdemyCalculator\RestWithASPNETUdemyCalculator\obj\Debug\net8.0\RestWithASPNETUdemyCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Cursos\Repositorios\erudio-microservices-dotnet6\RestWithASPNETUdemyCalculator\RestWithASPNETUdemyCalculator\bin\Debug\net8.0\appsettings.Development.json
+C:\Cursos\Repositorios\erudio-microservices-dotnet6\RestWithASPNETUdemyCalculator\RestWithASPNETUdemyCalculator\bin\Debug\net8.0\appsettings.json
+C:\Cursos\Repositorios\erudio-microservices-dotnet6\RestWithASPNETUdemyCalculator\RestWithASPNETUdemyCalculator\bin\Debug\net8.0\RestWithASPNETUdemyCalculator.exe
+C:\Cursos\Repositorios\erudio-microservices-dotnet6\RestWithASPNETUdemyCalculator\RestWithASPNETUdemyCalculator\bin\Debug\net8.0\RestWithASPNETUdemyCalculator.deps.json
+C:\Cursos\Repositorios\erudio-microservices-dotnet6\RestWithASPNETUdemyCalculator\RestWithASPNETUdemyCalculator\bin\Debug\net8.0\RestWithASPNETUdemyCalculator.runtimeconfig.json
+C:\Cursos\Repositorios\erudio-microservices-dotnet6\RestWithASPNETUdemyCalculator\RestWithASPNETUdemyCalculator\bin\Debug\net8.0\RestWithASPNETUdemyCalculator.dll
+C:\Cursos\Repositorios\erudio-microservices-dotnet6\RestWithASPNETUdemyCalculator\RestWithASPNETUdemyCalculator\bin\Debug\net8.0\RestWithASPNETUdemyCalculator.pdb
+C:\Cursos\Repositorios\erudio-microservices-dotnet6\RestWithASPNETUdemyCalculator\RestWithASPNETUdemyCalculator\obj\Debug\net8.0\RestWithASPNETUdemyCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Cursos\Repositorios\erudio-microservices-dotnet6\RestWithASPNETUdemyCalculator\RestWithASPNETUdemyCalculator\obj\Debug\net8.0\RestWithASPNETUdemyCalculator.AssemblyInfoInputs.cache
+C:\Cursos\Repositorios\erudio-microservices-dotnet6\RestWithASPNETUdemyCalculator\RestWithASPNETUdemyCalculator\obj\Debug\net8.0\RestWithASPNETUdemyCalculator.AssemblyInfo.cs
+C:\Cursos\Repositorios\erudio-microservices-dotnet6\RestWithASPNETUdemyCalculator\RestWithASPNETUdemyCalculator\obj\Debug\net8.0\RestWithASPNETUdemyCalculator.csproj.CoreCompileInputs.cache
+C:\Cursos\Repositorios\erudio-microservices-dotnet6\RestWithASPNETUdemyCalculator\RestWithASPNETUdemyCalculator\obj\Debug\net8.0\RestWithASPNETUdemyCalculator.MvcApplicationPartsAssemblyInfo.cache
+C:\Cursos\Repositorios\erudio-microservices-dotnet6\RestWithASPNETUdemyCalculator\RestWithASPNETUdemyCalculator\obj\Debug\net8.0\RestWithASPNETUdemyCalculator.sourcelink.json
+C:\Cursos\Repositorios\erudio-microservices-dotnet6\RestWithASPNETUdemyCalculator\RestWithASPNETUdemyCalculator\obj\Debug\net8.0\staticwebassets.build.json
+C:\Cursos\Repositorios\erudio-microservices-dotnet6\RestWithASPNETUdemyCalculator\RestWithASPNETUdemyCalculator\obj\Debug\net8.0\staticwebassets.development.json
+C:\Cursos\Repositorios\erudio-microservices-dotnet6\RestWithASPNETUdemyCalculator\RestWithASPNETUdemyCalculator\obj\Debug\net8.0\staticwebassets\msbuild.RestWithASPNETUdemyCalculator.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Cursos\Repositorios\erudio-microservices-dotnet6\RestWithASPNETUdemyCalculator\RestWithASPNETUdemyCalculator\obj\Debug\net8.0\staticwebassets\msbuild.build.RestWithASPNETUdemyCalculator.props
+C:\Cursos\Repositorios\erudio-microservices-dotnet6\RestWithASPNETUdemyCalculator\RestWithASPNETUdemyCalculator\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.RestWithASPNETUdemyCalculator.props
+C:\Cursos\Repositorios\erudio-microservices-dotnet6\RestWithASPNETUdemyCalculator\RestWithASPNETUdemyCalculator\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.RestWithASPNETUdemyCalculator.props
+C:\Cursos\Repositorios\erudio-microservices-dotnet6\RestWithASPNETUdemyCalculator\RestWithASPNETUdemyCalculator\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Cursos\Repositorios\erudio-microservices-dotnet6\RestWithASPNETUdemyCalculator\RestWithASPNETUdemyCalculator\obj\Debug\net8.0\scopedcss\bundle\RestWithASPNETUdemyCalculator.styles.css
+C:\Cursos\Repositorios\erudio-microservices-dotnet6\RestWithASPNETUdemyCalculator\RestWithASPNETUdemyCalculator\obj\Debug\net8.0\RestWithASPNETUdemyCalculator.dll
+C:\Cursos\Repositorios\erudio-microservices-dotnet6\RestWithASPNETUdemyCalculator\RestWithASPNETUdemyCalculator\obj\Debug\net8.0\refint\RestWithASPNETUdemyCalculator.dll
+C:\Cursos\Repositorios\erudio-microservices-dotnet6\RestWithASPNETUdemyCalculator\RestWithASPNETUdemyCalculator\obj\Debug\net8.0\RestWithASPNETUdemyCalculator.pdb
+C:\Cursos\Repositorios\erudio-microservices-dotnet6\RestWithASPNETUdemyCalculator\RestWithASPNETUdemyCalculator\obj\Debug\net8.0\RestWithASPNETUdemyCalculator.genruntimeconfig.cache
+C:\Cursos\Repositorios\erudio-microservices-dotnet6\RestWithASPNETUdemyCalculator\RestWithASPNETUdemyCalculator\obj\Debug\net8.0\ref\RestWithASPNETUdemyCalculator.dll

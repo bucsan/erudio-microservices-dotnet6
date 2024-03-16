@@ -36,6 +36,7 @@ namespace GeekShopping.ProductAPI.Repository
             await _context.SaveChangesAsync();
             return _mapper.Map<ProductVO>(product);
         }
+
         public async Task<ProductVO> Update(ProductVO vo)
         {
             Product product = _mapper.Map<Product>(vo);
@@ -49,16 +50,15 @@ namespace GeekShopping.ProductAPI.Repository
             try
             {
                 Product product = await _context.Products.Where(p => p.Id == id).FirstOrDefaultAsync() ?? new Product();
-                if(product.Id <= 0) return false;
+                if (product.Id <= 0) return false;
                 _context.Products.Remove(product);
-                await _context.SaveChangesAsync(); 
+                await _context.SaveChangesAsync();
                 return true;
             }
             catch (Exception)
             {
-
                 return false;
             }
-        }       
+        }
     }
 }

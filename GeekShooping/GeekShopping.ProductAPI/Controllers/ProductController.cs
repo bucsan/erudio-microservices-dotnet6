@@ -12,7 +12,7 @@ namespace GeekShopping.ProductAPI.Controllers
 
         public ProductController(IProductRepository productRepository)
         {
-            _productRepository = productRepository ?? throw new 
+            _productRepository = productRepository ?? throw new
                 ArgumentNullException(nameof(productRepository));
         }
 
@@ -48,10 +48,10 @@ namespace GeekShopping.ProductAPI.Controllers
         }
 
         [HttpDelete("{id}")]
-        public async Task<ActionResult> Delete(long id) 
+        public async Task<ActionResult> Delete(long id)
         {
             var status = await _productRepository.Delete(id);
-            if(!status) return BadRequest();
+            if (!status) return BadRequest();
             return Ok(status);
         }
     }
